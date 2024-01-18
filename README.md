@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anup kumar jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anup kumar jha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anup-kumar-jha-36a393201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anup kumar jha" height="30" width="40" /></a>
 <a href="https://fb.com/anup jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anup jha" height="30" width="40" /></a>
 <a href="https://instagram.com/anup.jha.108889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anup.jha.108889" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/Anupkjha2601" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/anupkjha2601?hr_r=1" height="30" width="40" /></a>
